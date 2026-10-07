@@ -29,10 +29,3 @@ Also exploring: LangGraph, Groq, Tavily and AI-agent workflows.
 Paid internship or entry-level opportunities in MERN, full-stack development or GenAI. I'm open to remote work from anywhere, onsite roles in Delhi NCR, and other locations for the right pay.
 
 If a project interests you, connect with me on LinkedIn. Feedback and bug reports are welcome.
-
-## GitHub activity
-
-![Public GitHub activity](https://github-readme-stats.vercel.app/api?username=Lakshya0604&show_icons=true&hide_rank=true&hide_border=true)
-![Languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs?username=Lakshya0604&layout=compact&hide_border=true)
-
-*These cards show public repository activity and language usage, not a skill rating. They may be cached or temporarily unavailable.*
