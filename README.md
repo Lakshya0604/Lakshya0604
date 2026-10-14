@@ -4,7 +4,7 @@ MERN developer and B.Tech CSE student, graduating in 2027. I build full-stack ap
 
 I like working on the parts that connect an app together: React interfaces, backend APIs, databases, real-time updates and agent routing. I'm still learning, and this GitHub is where I share what I'm building.
 
-[Portfolio](https://portfolio-website-six-theta-30.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lakshya-yadav-32a692312)
+[Portfolio](https://portfolio-website-six-theta-30.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lakshyayadav-dev)
 
 ## Projects I'm building
 
