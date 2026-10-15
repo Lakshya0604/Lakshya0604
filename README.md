@@ -4,12 +4,13 @@ MERN developer and B.Tech CSE student, graduating in 2027. I build full-stack ap
 
 I like working on the parts that connect an app together: React interfaces, backend APIs, databases, real-time updates and agent routing. I'm still learning, and this GitHub is where I share what I'm building.
 
-[Portfolio](https://portfolio-website-six-theta-30.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lakshyayadav-dev)
+[3D studio](https://lakshya-studio-3d.web.app/) · [Portfolio](https://portfolio-website-six-theta-30.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lakshyayadav-dev)
 
 ## Projects I'm building
 
 | Project | What it does | Try it / read the code |
 | --- | --- | --- |
+| **Digital Studio** | Personal interactive Three.js portfolio: tap-to-walk receptionist escort, animated fictional office characters, overhead map and arrival-only project cards. | [Explore the studio](https://lakshya-studio-3d.web.app/) |
 | **Khana Khajana** | MERN food-ordering app with role-based dashboards and Socket.io order updates. Razorpay integration is in test mode. | [Live app](https://khana-khajana-2ijn.onrender.com) · [Code](https://github.com/Lakshya0604/khana_khajana) |
 | **HiveNixAI** | GenAI learning project with a React interface and LangGraph routing for chat, search and coding agents. | [Code](https://github.com/Lakshya0604/HiveNixAI) |
 | **VyapaarPulse** | Small-business tool for sales CSV analysis, website checks and saved reports. | [Live app](https://vyapaar-pulse.onrender.com) |
